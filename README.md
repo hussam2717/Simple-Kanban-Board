@@ -26,6 +26,9 @@ In Progress
 Done
 You can drag tasks from one column to another to update their status.
 
+🤝 Contributing
+Feel free to fork this repo and improve it. Pull requests are welcome!
+
 💡 Future Improvements
 Add new tasks dynamically
 Save tasks using Local Storage
