@@ -8,3 +8,8 @@ Live Demo -
 🧩 Simple and clean UI design
 ⚡ Lightweight and fast (no frameworks)
 📱 Responsive layout
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScrip
