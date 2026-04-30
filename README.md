@@ -25,3 +25,9 @@ To Do
 In Progress
 Done
 You can drag tasks from one column to another to update their status.
+
+💡 Future Improvements
+Add new tasks dynamically
+Save tasks using Local Storage
+Add delete/edit functionality
+Improve animations
