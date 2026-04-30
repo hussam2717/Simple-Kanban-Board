@@ -12,4 +12,9 @@ Live Demo -
 🛠️ Tech Stack
 HTML5
 CSS3
-JavaScrip
+JavaScript
+
+📂 Project Structure
+├── index.html
+├── style.css
+├── script.js
