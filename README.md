@@ -18,3 +18,10 @@ JavaScript
 ├── index.html
 ├── style.css
 ├── script.js
+
+🎯 How It Works
+Tasks are displayed in 3 columns:
+To Do
+In Progress
+Done
+You can drag tasks from one column to another to update their status.
