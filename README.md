@@ -9,7 +9,7 @@ A clean and minimal Kanban Board built using HTML, CSS, and JavaScript. This pro
 ⚡ Lightweight and fast (no frameworks)
 📱 Responsive layout
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML5
 CSS3
 JavaScript
