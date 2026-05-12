@@ -14,7 +14,7 @@ HTML5
 CSS3
 JavaScript
 
-📂 Project Structure
+## 📂 Project Structure
 ├── index.html
 ├── style.css
 ├── script.js
