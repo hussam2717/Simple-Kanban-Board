@@ -3,7 +3,7 @@ A clean and minimal Kanban Board built using HTML, CSS, and JavaScript. This pro
 
 ## Live Demo - https://hussam2717.github.io/Simple-Kanban-Board/
 
-🚀 Features
+## 🚀 Features
 📌 Drag and drop tasks between columns
 🧩 Simple and clean UI design
 ⚡ Lightweight and fast (no frameworks)
